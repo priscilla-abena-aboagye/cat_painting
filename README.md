@@ -8,3 +8,5 @@ This code includes **HTML** for structure, but it is primarily **CSS**-based, as
 ## Technologies Used
 
 - CSS: This project consist mainly of **CSS**. CSS is utilized to define the shapes, colors, and intricate details of the artwork, with properties like gradients, box shadows, borders, and transformations coming together to form the design.
+
+- HTML: 
